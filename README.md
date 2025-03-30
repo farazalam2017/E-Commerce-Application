@@ -6,11 +6,11 @@
 
 ## Description
 
-Malik & Sabiha Flavour is a simple e-commerce application built from scratch using React. The project follows the concept of a config-driven UI, where data is dynamically fetched from the Swiggy API. It is designed to cover all fundamental concepts of React, including hooks, Redux Toolkit, and other essential features.
+Malik & Sabiha Flavour is a food ordering application built from scratch using React. The project follows the concept of a config-driven UI, where data is dynamically fetched from the Swiggy API. It is designed to cover all fundamental concepts of React, including hooks, Redux Toolkit, and other essential features.
 
 ## Features
 
-- User-friendly e-commerce interface
+- User-friendly interface
 - State management using Redux Toolkit
 - Efficient bundling with Parcel
 - Testing implemented using Jest
