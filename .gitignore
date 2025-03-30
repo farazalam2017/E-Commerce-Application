@@ -1,4 +1,4 @@
-node_modules
-.parcel- cache
-coverage
+node_modules/
+.parcel-cache/
+coverage/
 NOTES.md
